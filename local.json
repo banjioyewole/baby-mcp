@@ -1,0 +1,10 @@
+{
+    "mcpServers": {
+        "weatherboy": {
+            "command": "/Users/ffapp1/Desktop/baby-mcp/venv/bin/python",
+            "args": [
+                "/Users/ffapp1/Desktop/baby-mcp/weatherboy.py"
+            ]
+        }
+    }
+}
